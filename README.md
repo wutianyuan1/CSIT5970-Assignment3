@@ -1,6 +1,6 @@
 # CSIT5970 Assignment-3 (8 marks)
 
-### Deadline: April 25, 23:59 (Friday)
+### Deadline: April 27, 23:59 (Friday)
 ---
 
 In this assignment, you will write two Spark applications: word count (`word_count.ipynb`) and server log analysis (`log_analysis.ipynb`). This assignment repo consists of the following three notebooks:
